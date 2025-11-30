@@ -34,3 +34,7 @@ styles.css       # Styling and layout
 script.js        # Palette logic & export formats
 .kiro/project.md # Kiro context and usage notes
 README.md        # Project overview and instructions
+
+## Live Demo
+https://aditya-vashisht-111.github.io/color-palette-picker/
+
